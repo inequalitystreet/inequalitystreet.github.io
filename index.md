@@ -1,3 +1,5 @@
+#### SPA Pensions Policy and Tax Policy are organising a joint symposium - please see below
+
 # Call for Abstracts for joint symposium on PENSIONS and TAX POLICY at SPA 2026
 
 ### Submission deadline: 13 FEB 2026
@@ -30,4 +32,5 @@ For any further information, please get in touch with Hayley James.
 
 Many thanks,
 SPA Pensions Policy and Tax Policy group
+
 
