@@ -6,7 +6,7 @@
 **Duration**: Fixed-term, 20 months (September 2026 – April 2028), 1.0 FTE <br>
 **Post Start date**: 28 Sep 2026 (or as soon as possible thereafter) <br>
 **Application closing date**: Fri 17 Jul 2026 23:59 (GMT) <br>
-**Interview invitations**: sent by Fri 24 Jul 2026
+**Interview invitations**: sent by Fri 24 Jul 2026 <br>
 **Interviews**: Thu 30 Jul 2026 (London) or Fri 31 Jul 2026 (Birmingham)  <br>
 **Principal Investigator (report to**): Dr. Ellie Suh (University of Birmingham) <br>
 **Co-Investigator**: Prof. Debora Price (University of Manchester) <br>
