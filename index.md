@@ -1,6 +1,6 @@
-## We are looking for a research assistant to join the GPeG team!
+## We are looking for a research fellow to join the GPeG team!
 
-## Research Assistant (Fixed-term Sep 2026-Apr 2028, Full-time)  
+## Research Fellow (Fixed-term Sep 2026-Apr 2028, Full-time)  
 **School**: School of Social Policy and Society, University of Birmingham <br>
 **Location**: Birmingham (hybrid working possible, but required to attend in-person meetings) <br>
 **Duration**: Fixed-term, 20 months (September 2026 – April 2028), 1.0 FTE <br>
