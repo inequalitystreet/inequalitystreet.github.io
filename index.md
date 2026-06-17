@@ -55,15 +55,6 @@ Please note that the postholder must have the right to work in the UK.
 •	Ensure compliance with data management, ethics, and research governance requirements   <br>
 •	Promote equality and inclusion in line with the University of Birmingham's values and EDI commitments   <br>
 
-
-### Desirable   <br>
-- Familiarity with pensions, financial wellbeing, or quantitative population data sources (highly desirable).   <br>
-- Experience working with project management, productivity, and/or note-taking tools (such as Zotero, Obsidian, Notion, or similar).   <br>
-- Experience with conceptual mapping or theoretical framework development.   <br>
-- Experience of stakeholder mapping, policy engagement, or impact-oriented research.   <br>
-- Experience producing public-facing research outputs (e.g., social media posts, blogs, infographics, policy summaries).   <br>
-- Experience with project administration within a university context.   <br>
-
 ### Person specification (E - Essential, D - Desirable)   <br>
 #### Qualifications  <br>
 (E) PhD in a quantitative social science discipline or related field (e.g. economics, sociology, social statistics, social policy, demography), or near completion	  <br>
