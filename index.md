@@ -1,36 +1,100 @@
-#### SPA Pensions Policy and Tax Policy are organising a joint symposium - please see below
+## We are looking for a research assistant to join the GPeG team!
 
-# Call for Abstracts for joint symposium on PENSIONS and TAX POLICY at SPA 2026
-
-### Submission deadline: 13 FEB 2026
-
-For this year's SPA conference being held at **Liverpool Hope University (Wed 1st July to Friday 3rd July 2026)**, **the SPA Pensions Policy and Tax Policy groups** are organising a joint symposium at the intersection of our interests. The overall conference theme is 'Hope in Dark Times: Resistance and Radical Change', and by bringing our groups together we want to foreground innovative and transformative approaches to social policy.
-
-We welcome preliminary submissions of relevant papers to join the symposium. Topics may relate to:
-- Taxation, inequality and social justice: How pensions and taxation interact with income inequality, gender and racial differences
-- Labour market and employment: How pension and taxation policies affect different types of workers (formal/informal, gig economy)
-- Intergenerational or comparative perspectives on pensions and taxation
-- Social policy innovation and reform: New approaches to pensions and taxation, including experimental policies, reforms, or technological innovations (digitalization in pensions, automated taxation systems)
-- Gender, pensions and taxation: How taxation shapes pension outcomes for groups of women and men
-- Pensions, taxation and intergenerational fairness: How taxation shapes pension outcomes for different generational groups
+## Research Assistant (Fixed-term Sep 2026-Apr 2028, Full-time)  
+**School**: School of Social Policy and Society, University of Birmingham <br>
+**Location**: Birmingham (hybrid working possible, but required to attend in-person meetings) <br>
+**Duration**: Fixed-term, 20 months (September 2026 – April 2028), 1.0 FTE <br>
+**Post Start date**: 28 Sep 2026 (or as soon as possible thereafter) <br>
+**Application closing date**: Fri 17 Jul 2026 23:59 (GMT) <br>
+**Interview invitations**: sent by Fri 24 Jul 2026
+**Interviews**: Thu 30 Jul 2026 (London) or Fri 31 Jul 2026 (Birmingham)  <br>
+**Principal Investigator (report to**): Dr. Ellie Suh (University of Birmingham) <br>
+**Co-Investigator**: Prof. Debora Price (University of Manchester) <br>
 
 
-We also welcome other topics combining pensions and taxation. 
+## Project:Examining Gender Pension Gaps: Trajectories Over Time in the UK
+This post is funded by the Nuffield Foundation as part of the project [Examining Gender Pension Gaps: Trajectories Over Time in the UK](https://www.nuffieldfoundation.org/project/examining-gender-pension-gaps-trajectories-over-time-in-the-uk). The project is led by Principal Investigator Dr. Ellie Suh (University of Birmingham) and Co-Investigator Professor Debora Price (University of Manchester). It examines how the gender pension gap (GPeG) in pension savings accumulates during the in-work years, using large-scale longitudinal UK data, with the aim of informing fairer pension policy and practice.
+The Research Fellow will play a central role in the quantitative strand of the project and will work closely with the Principal Investigator and Co-Investigator.
 
-To support involvement from a diverse group of scholars in the symposium, we have a limited number of bursaries available which would cover conference registration for those who do not have institutional funding available.
+### Summary of Role
+The Research Fellow will contribute to the empirical (quantitative) strand of this Nuffield Foundation-funded project, examining how the gender pension gap accumulates over working life in the UK. The post-holder will:
+
+•	Lead the design and execution of advanced quantitative analyses, including longitudinal modelling of pension saving trajectories, using large-scale survey datasets
+•	Undertake data cleaning, validation, and visualisation as integral parts of the analytical workflow
+•	Work independently as well as collaboratively as part of the team
+•	Co-author academic publications, policy briefs, blogs, and the main project report
+•	Support project coordination, including meeting organisation, stakeholder liaison, and day-to-day administrative tasks
+
+Please note that the postholder must have the right to work in the UK. 
 
 
-Please submit an abstract to Hayley James (h.james1@aston.ac.uk) by 13th Feb, mentioning whether you would like to be considered for a bursary. 
+### Main Duties and Responsibilities
+#### Research Design and Data Management
+•	Lead on data cleaning, preparation, and validation, including cross-validation of pension wealth values against alternative sources and methodologies 
+•	Manage analytical workflows using appropriate statistical software (preferably R/Stata), documenting code and ensuring reproducibility through version control and open science practices 
+•	Obtain and maintain ONS Accredited Researcher status to enable access to restricted secure-access datasets 
+•	Engage with specialist external advisors, rapidly assimilating technical input and translating it into the analytical workflow
+
+#### Quantitative Analysis
+•	Design and conduct quantitative analyses of gender pension gaps, including descriptive and longitudinal approaches, operationalising key outcomes and comparison groups in line with the project's analytical framework
+•	Apply advanced longitudinal modelling techniques as appropriate (e.g. multilevel, panel data, growth curve or latent trajectory models etc) to examine and model pension gap trajectories 
+•	Critically interrogate findings through sensitivity analyses, challenging existing measures and analytical conventions and proposing refinements where needed
+
+#### Outputs and Dissemination
+•	Prepare and co-author academic publications and contribute to open science outputs, including data deposits and replication materials 
+•	Co-author policy briefs, project reports, and practice-facing outputs for policymaker and advocacy audiences 
+•	Contribute to public communications outputs 
+
+#### Collaboration and Project Support
+•	Work closely with the PI and project team to manage day-to-day delivery, proactively communicating progress, risks, and analytical decisions 
+•	Work independently and effectively while maintaining close communication across the research team, sharing progress and seeking input at key decision points in a timely manner 
+•	Organise and participate in regular team meetings, advisory board sessions, and stakeholder roundtables, managing all associated logistics (e.g. agendas and note-taking) 
+•	Liaise with internal and external partners and stakeholders, managing correspondence and coordinating logistics for workshops, roundtables, and public events 
+
+#### General
+•	Ensure compliance with data management, ethics, and research governance requirements 
+•	Promote equality and inclusion in line with the University of Birmingham's values and EDI commitments
 
 
-We will then review submissions and get back in touch with you by the end of February to confirm our symposium. Accepted contributors will then also need  to submit their abstracts separately to the SPA's submission system by the conference deadline of 16th March. Instructions will be provided! 
+### Desirable
+- Familiarity with pensions, financial wellbeing, or quantitative population data sources (highly desirable).
+- Experience working with project management, productivity, and/or note-taking tools (such as Zotero, Obsidian, Notion, or similar).
+- Experience with conceptual mapping or theoretical framework development.
+- Experience of stakeholder mapping, policy engagement, or impact-oriented research.
+- Experience producing public-facing research outputs (e.g., social media posts, blogs, infographics, policy summaries).
+- Experience with project administration within a university context.
 
-More information about the conference [**here**](https://social-policy.org.uk/what-we-do/conference-2/) and about the groups [**here**](https://social-policy.org.uk/news/spa-policy-groups/).
+### Person specification (E - Essential, D - Desirable)
+#### Qualifications
+(E) PhD in a quantitative social science discipline or related field (e.g. economics, sociology, social statistics, social policy, demography), or near completion	
+(D) ONS Accredited Researcher status, or eligibility and willingness to obtain it promptly		
 
-For any further information, please get in touch with Hayley James. 
+#### Knowledge and Experience
+(E) Demonstrable experience of quantitative analysis using large-scale survey data, including advanced longitudinal approaches 	
+(E) Knowledge of socio-economic inequalities or related social science research using large-scale data	
+(E) Proficiency in at least one major statistical software package (e.g. Stata, R, or equivalent) for data management, analysis, and visualisation	
+(D) Knowledge of pension systems (UK), retirement savings, wealth, or gender inequalities in economic outcomes	
+(D) Experience of translating research findings for policy or practice audiences	
 
+#### Skills and Abilities
+(E) Demonstrated ability to design and execute complex quantitative analyses independently, bringing critical and analytical thinking to methodological decisions, data quality, and the validity of existing approaches	
+(E) Ability to produce data visualisations and communicate quantitative findings in accessible formats, including for digital and social media audiences	
+(E) Demonstrable project and research management skills, strong self-organisation and time management skills, with the ability to prioritise competing demands and deliver high-quality work to deadlines with minimal supervision	
+(E) Strong communication and collaboration skills, with the ability to work proactively across a dispersed team, keeping colleagues informed and managing competing deadlines proactively	
+(E) Ability to effectively coordinate events, managing logistics, and supporting day-to-day administrative tasks such as meeting organisation and documentation	
+(D) Experience of reproducible research practices (version control, documented code, open data)	
 
-Many thanks,
-SPA Pensions Policy and Tax Policy group
+### Development and Support
 
+The RF will be supervised day-to-day by the Principal Investigator and will have access to a wider network of academic advisors on the project and UoB's early career researcher support framework. The RF will be expected to take an active role in research outputs, including co-authoring academic and policy publications, presenting at conferences, and contributing to stakeholder engagement activities. Participation in relevant funder networks and professional associations will be encouraged as part of ongoing professional development. The post involves use of secure datasets accessed via the UK Data Service and ONS Secure Research Service. The post-holder will be expected to apply for and maintain relevant data access accreditations promptly.
+
+### Application timeline
+Please apply by 11.59pm Friday 17th July 2026 (GMT) via the University of Birmingham HR portal. 
+Late submissions or applications by email will not be considered.  
+
+Shortlisted applicants will be contacted by Friday 24th July. 
+
+Interviews will be held in-person on Thursday 30th July (London) and Friday 31st July (Birmingham).
+
+Any informal queries can be directed to Dr Ellie Suh (e.suh[at]bham.ac.uk). 
 
