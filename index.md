@@ -79,7 +79,7 @@ Please note that the postholder must have the right to work in the UK.
 The RF will be supervised day-to-day by the Principal Investigator and will have access to a wider network of academic advisors on the project and UoB's early career researcher support framework. The RF will be expected to take an active role in research outputs, including co-authoring academic and policy publications, presenting at conferences, and contributing to stakeholder engagement activities. Participation in relevant funder networks and professional associations will be encouraged as part of ongoing professional development. The post involves use of secure datasets accessed via the UK Data Service and ONS Secure Research Service. The post-holder will be expected to apply for and maintain relevant data access accreditations promptly.   <br>
 
 ### Application timeline   
-This is a preview of a job advert that will be posted on University of Birmingham Jobs portal. Applications should be made via the university portal by **11.59pm Friday 17th July 2026 (GMT)**. Late submissions or applications by email will not be considered. <br>
+This is an advance preview of a job advert that will be posted on the University of Birmingham Jobs Portal. The information is being shared ahead of the University recruitment site going live. Applications should be made via the university portal by **11.59pm Friday 17th July 2026 (GMT)**. Late submissions or applications by email will not be considered. <br>
 
 Shortlisted applicants will be contacted by **Friday 24th July**. Interviews will be held in-person on Thursday 30th July (London) and Friday 31st July (Birmingham).
 
