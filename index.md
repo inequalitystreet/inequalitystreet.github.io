@@ -81,6 +81,6 @@ The RF will be supervised day-to-day by the Principal Investigator and will have
 ### Application timeline   
 This is an advance preview of a job advert that will be posted on the University of Birmingham Jobs Portal. The information is being shared ahead of the University recruitment site going live. Applications should be made via the university portal by **11.59pm Friday 17th July 2026 (GMT)**. Late submissions or applications by email will not be considered. <br>
 
-Shortlisted applicants will be contacted by **Friday 24th July**. Interviews will be held in-person on Thursday 30th July (London) and Friday 31st July (Birmingham).
+Shortlisted applicants will be contacted by **Friday 24th July**. Interviews will be held in-person on Thursday 30th July (London, TBC) and Friday 31st July (Birmingham, TBC).
 
 Any informal queries can be directed to Dr Ellie Suh (e.suh[at]bham.ac.uk). 
