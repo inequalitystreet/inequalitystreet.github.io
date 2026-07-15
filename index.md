@@ -11,11 +11,11 @@ This is the additional info page. For the official role advert - please head ove
 
 Women in the UK retire with significantly less pension wealth than men. We know the gap exists. What we don't fully understand is *how* and *when* it accumulates - whether it widens gradually across working life, accelerates at key life events, or reflects structural features of the pension system itself.
 
-This Nuffield Foundation-funded project, [Examining Gender Pension Gaps: Trajectories Over Time in the UK]([url](https://www.nuffieldfoundation.org/project/examining-gender-pension-gaps-trajectories-over-time-in-the-uk)), sets out to answer exactly that. Using large-scale longitudinal UK datasets, we'll trace pension saving trajectories during the working-age years, look at how employment patterns and family responsibilities shape those trajectories, and - more crucially - ask whether the way we currently measure and think about the gender pension gaps still hold up.
+This Nuffield Foundation-funded project, [Examining Gender Pension Gaps: Trajectories Over Time in the UK]([https://www.nuffieldfoundation.org/project/examining-gender-pension-gaps-trajectories-over-time-in-the-uk]), sets out to answer exactly that. Using large-scale longitudinal UK datasets, we'll trace pension saving trajectories during the working-age years, look at how employment patterns and family responsibilities shape those trajectories, and - more crucially - ask whether the way we currently measure and think about the gender pension gaps still hold up.
 
 ### 🤝 Who will you work with?
 
-You'll be working closely with me (Dr. Ellie Suh, University of Birmingham) and Debbie (Prof. Debora Price, University of Manchester). It's a friendly and supportive team, but we also expect you to engage with a wider network, including the Social Policy Association's [Pensions Policy Working Group]([url](https://social-policy.org.uk/news/spa-policy-groups/)), and other stakeholders.
+You'll be working closely with me (Dr. Ellie Suh, University of Birmingham) and Debbie (Prof. Debora Price, University of Manchester). It's a friendly and supportive team, but we also expect you to engage with a wider network, including the Social Policy Association's [Pensions Policy Working Group]([https://social-policy.org.uk/news/spa-policy-groups/]), and other stakeholders.
 
 ### 💻 What will you actually be doing?
 
