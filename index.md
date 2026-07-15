@@ -69,6 +69,6 @@ Applications must be submitted via the **University of Birmingham Jobs Portal** 
 Shortlisted applicants will be contacted by **Friday 7 August**. Interviews will be held in-person at the University of Birmingham. 
 
 
-## 💬 Still got questions?
+### 💬 Still got questions?
 
 Fire away - get in touch at **e.suh[at]bham.ac.uk**
