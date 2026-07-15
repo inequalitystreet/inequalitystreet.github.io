@@ -1,86 +1,74 @@
-## We are looking for a research fellow to join the GPeG team!
+### 👋 We are looking for a research fellow to join the GPeG team!
 
-## Research Fellow (Fixed-term Sep 2026-Apr 2028, Full-time)  
-**School**: School of Social Policy and Society, University of Birmingham <br>
-**Location**: Birmingham (hybrid working possible, but required to attend in-person meetings) <br>
-**Duration**: Fixed-term, 20 months (September 2026 – April 2028), 1.0 FTE <br>
-**Post Start date**: 28 Sep 2026 (or as soon as possible thereafter) <br>
-**Application closing date**: Fri 17 Jul 2026 23:59 (GMT) <br>
-**Interview invitations**: sent by Fri 24 Jul 2026 <br>
-**Interviews**: Thu 30 Jul 2026 (London) or Fri 31 Jul 2026 (Birmingham)  <br>
-**Principal Investigator (report to**): Dr. Ellie Suh (University of Birmingham) <br>
-**Co-Investigator**: Prof. Debora Price (University of Manchester) <br>
+This is the additional info page. For the official role advert - please head over to the University of Birmingham Jobs site.
+
+### 📌 The role at a glance
+- 📍 Location: Birmingham (hybrid - with in-person meetings)
+- 📅 Contract: Up to April 2028, full-time (1.0 FTE), Grade 7
+- ⏳ Closing date: 31 July 2026 (extended from 17th July)
+
+### 🔍 What's the project about?
+
+Women in the UK retire with significantly less pension wealth than men. We know the gap exists. What we don't fully understand is *how* and *when* it accumulates - whether it widens gradually across working life, accelerates at key life events, or reflects structural features of the pension system itself.
+
+This Nuffield Foundation-funded project, [Examining Gender Pension Gaps: Trajectories Over Time in the UK]([url](https://www.nuffieldfoundation.org/project/examining-gender-pension-gaps-trajectories-over-time-in-the-uk)), sets out to answer exactly that. Using large-scale longitudinal UK datasets, we'll trace pension saving trajectories during the working-age years, look at how employment patterns and family responsibilities shape those trajectories, and - more crucially - ask whether the way we currently measure and think about the gender pension gaps still hold up.
+
+### 🤝 Who will you work with?
+
+You'll be working closely with me (Dr. Ellie Suh, University of Birmingham) and Debbie (Prof. Debora Price, University of Manchester). It's a friendly and supportive team, but we also expect you to engage with a wider network, including the Social Policy Association's [Pensions Policy Working Group]([url](https://social-policy.org.uk/news/spa-policy-groups/)), and other stakeholders.
+
+### 💻 What will you actually be doing?
+
+This is a hands-on role at the heart of the project's quantitative strand. You'll lead the data and analytical work - managing datasets, designing and running the statistical analyses, and working through the methodological puzzles that come with measuring something as complex as pension wealth over time.
+
+We think this role would suit a quant researcher who has worked extensively with longitudinal analysis techniques and is fluent in the necessary software (R/Stata, and ideally Mplus too). Familiarity with reproducible research workflows - version control, documented code, open data - would be a big plus 🙌
+
+> 🔐 **A note on data access:** The post involves working with secure datasets via the UK Data Service and ONS Secure Research Service. You'll be expected to obtain and maintain ONS Accredited Researcher status. Don't worry if you don't have it yet, eligibility and willingness to get it promptly is what matters.
+
+### Example tasks for this role:
+- 🧹 Data preparation & validation
+- 📈 Longitudinal modelling
+- 🔁 Sensitivity & robustness analyses
+- 📝 Academic publications
+- 📋 Policy briefs & reports
+- 📱 Blog posts & social media
+- 🤝 Stakeholder engagement 
+- 🗓️ Event coordination
+- 📂 Team & project administration
+
+### 🌟 Who's our ideal candidate?
+
+We want someone who **thinks** about the problem, not just executes the analysis. If you have a fresh take on how the gender pension gap should be measured or understood, we want to hear it. And if it makes sense, we'll give you the space to explore it.
+
+We're also looking for someone who communicates early and openly. Not just progress updates, but your thinking, your uncertainties, and where you need input. This is a genuine collaboration, and the best version of this project happens when we're thinking through the hard problems together 💡
+
+And yes, this role is more than just modelling. You'll liaise with external partners and stakeholders, contribute to policy and public outputs, and help coordinate the project day-to-day (from data cleaning all the way to a stakeholder roundtable). We need someone who's comfortable across the full arc of that (or at least willing to try! 😄)
+
+### ❓ Frequently asked questions
+
+**Do I need a PhD?**
+Yes — a PhD in a quantitative social science discipline (or near completion) is a must, along with solid experience with large-scale survey data and proficiency in at least one major statistical software package (R or Stata preferred, though equivalent is fine).
+
+**Do I need to know about pensions?**
+Not necessarily! We're looking for someone with knowledge of socio-economic inequalities research using large-scale data. Knowledge of UK pension systems or gender inequality in economic outcomes would be a bonus, but it's not a dealbreaker.
+
+**Can I apply if I need visa sponsorship?**
+We're sorry - this role is only open to those who already have the right to work in the UK. We were informed that, due to time and budget constraints associated with this project, we cannot meet the legal obligations required to make this role visa-sponsorable. 
+
+### 📋 Practical details
+
+- 🏫 **Work location:** University of Birmingha, School of Social Policy and Society. Hybrid working is possible, but in-person attendance at team meetings and events is required.
+
+- 📅 **Contract:** Until the end of April 2028, full-time (1.0 FTE). Start date: 28 September 2026, or as soon as possible thereafter.
 
 
-## Project:Examining Gender Pension Gaps: Trajectories Over Time in the UK
-This post is funded by the Nuffield Foundation as part of the project [Examining Gender Pension Gaps: Trajectories Over Time in the UK](https://www.nuffieldfoundation.org/project/examining-gender-pension-gaps-trajectories-over-time-in-the-uk). The project is led by Principal Investigator Dr. Ellie Suh (University of Birmingham) and Co-Investigator Professor Debora Price (University of Manchester). It examines how the gender pension gap (GPeG) in pension savings accumulates during the in-work years, using large-scale longitudinal UK data, with the aim of informing fairer pension policy and practice.
-The Research Fellow will play a central role in the quantitative strand of the project and will work closely with the Principal Investigator and Co-Investigator.
+### 📮 How to apply
 
-### Summary of Role
-The Research Fellow will contribute to the empirical (quantitative) strand of this Nuffield Foundation-funded project, examining how the gender pension gap accumulates over working life in the UK. The post-holder will:
+Applications must be submitted via the **University of Birmingham Jobs Portal** by **11:59pm Friday 31 July 2026 (GMT)**. We don't accept email applications, so please don't leave it to the last minute ⏰
 
-•	Lead the design and execution of advanced quantitative analyses, including longitudinal modelling of pension saving trajectories, using large-scale survey datasets  <br>
-•	Undertake data cleaning, validation, and visualisation as integral parts of the analytical workflow  <br>
-•	Work independently as well as collaboratively as part of the team  <br>
-•	Co-author academic publications, policy briefs, blogs, and the main project report  <br>
-•	Support project coordination, including meeting organisation, stakeholder liaison, and day-to-day administrative tasks  <br>
-
-Please note that the postholder must have the right to work in the UK. 
+Shortlisted applicants will be contacted by **Friday 7 August**. Interviews will be held in-person at the University of Birmingham. 
 
 
-### Main Duties and Responsibilities   
-#### Research Design and Data Management   
-•	Lead on data cleaning, preparation, and validation, including cross-validation of pension wealth values against alternative sources and methodologies    <br>
-•	Manage analytical workflows using appropriate statistical software (preferably R/Stata), documenting code and ensuring reproducibility through version control and open science practices   <br>
-•	Obtain and maintain ONS Accredited Researcher status to enable access to restricted secure-access datasets   <br>
-•	Engage with specialist external advisors, rapidly assimilating technical input and translating it into the analytical workflow  <br>
+## 💬 Still got questions?
 
-#### Quantitative Analysis  
-•	Design and conduct quantitative analyses of gender pension gaps, including descriptive and longitudinal approaches, operationalising key outcomes and comparison groups in line with the project's analytical framework   <br>
-•	Apply advanced longitudinal modelling techniques as appropriate (e.g. multilevel, panel data, growth curve or latent trajectory models etc) to examine and model pension gap trajectories   <br>
-•	Critically interrogate findings through sensitivity analyses, challenging existing measures and analytical conventions and proposing refinements where needed   <br>
-
-#### Outputs and Dissemination   
-•	Prepare and co-author academic publications and contribute to open science outputs, including data deposits and replication materials   <br>
-•	Co-author policy briefs, project reports, and practice-facing outputs for policymaker and advocacy audiences   <br>
-•	Contribute to public communications outputs   <br>
-
-#### Collaboration and Project Support  
-•	Work closely with the PI and project team to manage day-to-day delivery, proactively communicating progress, risks, and analytical decisions   <br>
-•	Work independently and effectively while maintaining close communication across the research team, sharing progress and seeking input at key decision points in a timely manner   <br>
-•	Organise and participate in regular team meetings, advisory board sessions, and stakeholder roundtables, managing all associated logistics (e.g. agendas and note-taking)   <br>
-•	Liaise with internal and external partners and stakeholders, managing correspondence and coordinating logistics for workshops, roundtables, and public events   <br>
-
-#### General   
-•	Ensure compliance with data management, ethics, and research governance requirements   <br>
-•	Promote equality and inclusion in line with the University of Birmingham's values and EDI commitments   <br>
-
-### Person specification (E - Essential, D - Desirable)   
-#### Qualifications  
-(E) PhD in a quantitative social science discipline or related field (e.g. economics, sociology, social statistics, social policy, demography), or near completion	  <br>
-(D) ONS Accredited Researcher status, or eligibility and willingness to obtain it promptly		  <br>
-
-#### Knowledge and Experience   
-(E) Demonstrable experience of quantitative analysis using large-scale survey data, including advanced longitudinal approaches 	  <br>
-(E) Knowledge of socio-economic inequalities or related social science research using large-scale data	  <br>
-(E) Proficiency in at least one major statistical software package (e.g. Stata, R, or equivalent) for data management, analysis, and visualisation	  <br>
-(D) Knowledge of pension systems (UK), retirement savings, wealth, or gender inequalities in economic outcomes	  <br>
-(D) Experience of translating research findings for policy or practice audiences	  <br>
-
-#### Skills and Abilities
-(E) Demonstrated ability to design and execute complex quantitative analyses independently, bringing critical and analytical thinking to methodological decisions, data quality, and the validity of existing approaches	  <br> 
-(E) Ability to produce data visualisations and communicate quantitative findings in accessible formats, including for digital and social media audiences	   <br>
-(E) Demonstrable project and research management skills, strong self-organisation and time management skills, with the ability to prioritise competing demands and deliver high-quality work to deadlines with minimal supervision	  <br>
-(E) Strong communication and collaboration skills, with the ability to work proactively across a dispersed team, keeping colleagues informed and managing competing deadlines proactively	  <br>
-(E) Ability to effectively coordinate events, managing logistics, and supporting day-to-day administrative tasks such as meeting organisation and documentation	  <br>
-(D) Experience of reproducible research practices (version control, documented code, open data)	  <br>
-
-### Development and Support   
-The RF will be supervised day-to-day by the Principal Investigator and will have access to a wider network of academic advisors on the project and UoB's early career researcher support framework. The RF will be expected to take an active role in research outputs, including co-authoring academic and policy publications, presenting at conferences, and contributing to stakeholder engagement activities. Participation in relevant funder networks and professional associations will be encouraged as part of ongoing professional development. The post involves use of secure datasets accessed via the UK Data Service and ONS Secure Research Service. The post-holder will be expected to apply for and maintain relevant data access accreditations promptly.   <br>
-
-### Application timeline   
-This is an advance preview of a job advert that will be posted on the University of Birmingham Jobs Portal. The information is being shared ahead of the University recruitment site going live. Applications should be made via the university portal by **11.59pm Friday 17th July 2026 (GMT)**. Late submissions or applications by email will not be considered. <br>
-
-Shortlisted applicants will be contacted by **Friday 24th July**. Interviews will be held in-person on Thursday 30th July (London, TBC) and Friday 31st July (Birmingham, TBC).
-
-Any informal queries can be directed to Dr Ellie Suh (e.suh[at]bham.ac.uk). 
+Fire away - get in touch at **e.suh[at]bham.ac.uk**
