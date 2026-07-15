@@ -47,7 +47,7 @@ And yes, this role is more than just modelling. You'll liaise with external part
 ### ❓ Frequently asked questions
 
 **Do I need a PhD?**
-Yes — a PhD in a quantitative social science discipline (or near completion) is a must, along with solid experience with large-scale survey data and proficiency in at least one major statistical software package (R or Stata preferred, though equivalent is fine).
+Yes - a PhD in a quantitative social science discipline (or near completion) is a must, along with solid experience with large-scale survey data and proficiency in at least one major statistical software package (R or Stata preferred, though equivalent is fine).
 
 **Do I need to know about pensions?**
 Not necessarily! We're looking for someone with knowledge of socio-economic inequalities research using large-scale data. Knowledge of UK pension systems or gender inequality in economic outcomes would be a bonus, but it's not a dealbreaker.
