@@ -17,26 +17,28 @@ This Nuffield Foundation-funded project, [Examining Gender Pension Gaps: Traject
 
 You'll be working closely with me (Dr. Ellie Suh, University of Birmingham) and Debbie (Prof. Debora Price, University of Manchester). It's a friendly and supportive team, but we also expect you to engage with a wider network, including the Social Policy Association's [Pensions Policy Working Group]([https://social-policy.org.uk/news/spa-policy-groups/]), and other stakeholders.
 
-### 💻 What will you actually be doing?
+### 💻 What will you be working on?
 
 This is a hands-on role at the heart of the project's quantitative strand. You'll lead the data and analytical work - managing datasets, designing and running the statistical analyses, and working through the methodological puzzles that come with measuring something as complex as pension wealth over time.
 
-We think this role would suit a quant researcher who has worked extensively with longitudinal analysis techniques and is fluent in the necessary software (R/Stata, and ideally Mplus too). Familiarity with reproducible research workflows - version control, documented code, open data - would be a big plus 🙌
+This role would suit a quant researcher who has worked extensively with longitudinal analysis techniques and is fluent in the necessary software (R/Stata, and ideally Mplus too). Familiarity with reproducible research workflows - version control, documented code, open data - would be a big plus 🙌
 
 > 🔐 **A note on data access:** The post involves working with secure datasets via the UK Data Service and ONS Secure Research Service. You'll be expected to obtain and maintain ONS Accredited Researcher status. Don't worry if you don't have it yet, eligibility and willingness to get it promptly is what matters.
 
-### Example tasks for this role:
-- 🧹 Data preparation & validation
-- 📈 Longitudinal modelling
-- 🔁 Sensitivity & robustness analyses
-- 📝 Academic publications
-- 📋 Policy briefs & reports
-- 📱 Blog posts & social media
-- 🤝 Stakeholder engagement 
-- 🗓️ Event coordination
-- 📂 Team & project administration
+### Tasks for this role:
+- 🧹 Data preparation & validation  
+- 📈 Longitudinal modelling  
+- 🔁 Sensitivity & robustness analyses  
+- 📝 Academic publications  
+- 📋 Policy briefs & reports  
+- 📱 Blog posts & social media  
+- 🤝 Stakeholder engagement  
+- 🗓️ Event coordination  
+- 📂 Team & project administration  
 
 ### 🌟 Who's our ideal candidate?
+
+We'd like our ideal candidate to be technically strong, with confidence managing, manipulating, and analyzing longitudinal data.
 
 We want someone who **thinks** about the problem, not just executes the analysis. If you have a fresh take on how the gender pension gap should be measured or understood, we want to hear it. And if it makes sense, we'll give you the space to explore it.
 
