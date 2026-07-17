@@ -66,9 +66,9 @@ We're sorry - this role is only open to those who already have the right to work
 
 ### 📮 How to apply
 
-Applications must be submitted via the **University of Birmingham Jobs Portal** by **11:59pm Friday 31 July 2026 (GMT)**. We don't accept email applications, so please don't leave it to the last minute ⏰
+Applications must be submitted via the **University of Birmingham Jobs Portal**. We don't accept email applications, so please don't leave it to the last minute ⏰
 
-Shortlisted applicants will be contacted by **Friday 7 August**. Interviews will be held in-person at the University of Birmingham. 
+Shortlisted applicants will be contacted by shortly after the deadline (interview date TBC). Interviews will be held in-person at the University of Birmingham. 
 
 
 ### 💬 Still got questions?
