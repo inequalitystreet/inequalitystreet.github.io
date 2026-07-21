@@ -54,9 +54,6 @@ Yes - a PhD in a quantitative social science discipline (or near completion) is 
 **Do I need to know about pensions?**
 Not necessarily! We're looking for someone with knowledge of socio-economic inequalities research using large-scale data. Knowledge of UK pension systems or gender inequality in economic outcomes would be a bonus, but it's not a dealbreaker.
 
-**Can I apply if I need visa sponsorship?**
-We're sorry - this role is only open to those who already have the right to work in the UK. We were informed that, due to time and budget constraints associated with this project, we cannot meet the legal obligations required to make this role visa-sponsorable. 
-
 ### 📋 Practical details
 
 - 🏫 **Work location:** University of Birmingha, School of Social Policy and Society. Hybrid working is possible, but in-person attendance at team meetings and events is required.
