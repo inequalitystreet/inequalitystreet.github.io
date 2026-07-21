@@ -63,9 +63,9 @@ Not necessarily! We're looking for someone with knowledge of socio-economic ineq
 
 ### 📮 How to apply
 
-Applications must be submitted via the **University of Birmingham Jobs Portal**. We don't accept email applications, so please don't leave it to the last minute ⏰
+Applications must be submitted via the **University of Birmingham Jobs Portal by 11.59pm Sunday 30th August 2026**. We don't accept email applications, so please don't leave it to the last minute ⏰
 
-Shortlisted applicants will be contacted by shortly after the deadline (interview date TBC). Interviews will be held in-person at the University of Birmingham. 
+Shortlisted applicants will be contacted by shortly after the deadline. Interviews will be held in-person at the University of Birmingham during the w/c 14th September 2026. 
 
 
 ### 💬 Still got questions?
