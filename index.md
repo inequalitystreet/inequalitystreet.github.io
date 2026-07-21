@@ -5,7 +5,7 @@ This is the additional info page. For the official role advert - please head ove
 ### 📌 The role at a glance
 - 📍 Location: Birmingham (hybrid - with in-person meetings)
 - 📅 Contract: Up to April 2028, full-time (1.0 FTE), Grade 7
-- ⏳ Closing date: 31 July 2026 (extended from 17th July)
+- ⏳ Closing date: 30 August 2026 (extended!)
 
 ### 🔍 What's the project about?
 
